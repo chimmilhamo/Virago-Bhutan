@@ -1,0 +1,65 @@
+body {
+  background-color: lavender;
+}
+.one{
+  font-size: 80px; font-family: fantasy; color: pink; text-align: center;
+}
+.two{
+  font-size: 40px; font-family: serif; color: purple; text-align: center;
+}
+.three{
+  font-size: 35px; font-family: cursive; color: black; text-align: center;
+}
+p{
+  font-size: 25px; font-family: inherit; color: black; text-align: center; padding: 0px 50px;
+}
+.four{
+  font-size: 30px; font-style: italic; font-famiy: serif; color: black; text-align: center;
+}
+.five{
+  font-size: 35px; font-family: serif; color: steelblue; text-align: center;
+}
+.six{
+font-size: 35px; font-family: serif; color: purple;
+}
+ul{
+font-size: 25px; font-family: serif; color: black;
+}
+.pic{
+  height: 60%; width: 60%; display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.outside-button{
+  text-align: center;
+
+}
+.navigation{
+  list-style: none;
+  background-color: steelblue;
+  margin: 0;
+  padding: 0px;
+  overflow: hidden;
+}
+.navigation li {
+  float: left;
+}
+.navigation li a{
+  display: block;
+  padding: 14px 16px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+.h1{
+  font-size: 50px; font-family: inherit; text-align: center; color: pink;
+}
+.storyinfo{
+  font-size: 25px; font-family: serif; text-align: center; color: steelblue; padding: 0px 50px;
+}
+.ahah{
+  font-size: 40px; font-family: serif; text-align: center; color: pink; padding: 0px 50px;
+}
+.link{
+  font-size: 25px; font-family: monospace; text-align: center; color: purple; padding: 0px 500px 75px;
+}

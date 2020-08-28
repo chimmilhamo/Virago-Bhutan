@@ -1,0 +1,22 @@
+body {
+  background-color: lavender;
+}
+h1{
+font-size: 70px; font-family: inherit; color: pink; text-align: center; padding: 25px;
+}
+.one{
+  font-size: 40px; font-family: cursive; color: steelblue; padding: 0px 75px;
+}
+.two{
+  font-size: 40px; font-family: sans-serif; color: steelblue; padding: 0px 75px;
+}
+p{
+  font-size: 25px; font-family: serif; color: black; padding: 0px 75px;
+}
+.link{
+  font-size: 25px; font-family: serif; color: purple; padding: 0px 75px;
+}
+
+iframe{
+  padding: 0px 75px;
+}
